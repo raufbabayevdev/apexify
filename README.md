@@ -1,4 +1,6 @@
-#Apexify
+<p align="center">
+# Apexify
+</p>
 <p align="center">
   <a href="https://cloud.apexify.ai">Apexify Cloud</a> ·
   <a href="https://docs.apexify.ai/getting-started/install-self-hosted">Self-hosting</a> ·
