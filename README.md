@@ -1,5 +1,3 @@
-![cover-v5-optimized](./images/GitHub_README_if.png)
-
 <p align="center">
   <a href="https://cloud.apexify.ai">Apexify Cloud</a> ·
   <a href="https://docs.apexify.ai/getting-started/install-self-hosted">Self-hosting</a> ·
